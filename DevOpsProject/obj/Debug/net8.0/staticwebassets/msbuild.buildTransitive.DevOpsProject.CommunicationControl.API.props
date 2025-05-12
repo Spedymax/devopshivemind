@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/DevOpsProject.CommunicationControl.API.props" />
+</Project>

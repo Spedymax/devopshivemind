@@ -1,0 +1,15 @@
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/bin/Debug/net8.0/DevOpsProject.HiveMind.Logic.deps.json
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/bin/Debug/net8.0/DevOpsProject.HiveMind.Logic.dll
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/bin/Debug/net8.0/DevOpsProject.HiveMind.Logic.pdb
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/bin/Debug/net8.0/DevOpsProject.Shared.dll
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/bin/Debug/net8.0/DevOpsProject.Shared.pdb
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.csproj.AssemblyReference.cache
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.AssemblyInfoInputs.cache
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.AssemblyInfo.cs
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.csproj.CoreCompileInputs.cache
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsPr.ABC2454C.Up2Date
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.dll
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/refint/DevOpsProject.HiveMind.Logic.dll
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/DevOpsProject.HiveMind.Logic.pdb
+/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.HiveMind.Logic/obj/Debug/net8.0/ref/DevOpsProject.HiveMind.Logic.dll

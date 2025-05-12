@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/DevOpsProject.HiveMind.API.props" />
+</Project>

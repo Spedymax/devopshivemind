@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UKdK33mzgskP3PFX/scLzwggCXqU4zb+fUnp8wbtuug=",
+  "Source": "DevOpsProject.HiveMind.API",
+  "BasePath": "_content/DevOpsProject.HiveMind.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KYaoXLFWaOZ8+v4fMeLDHWRM4sKhThPifXYxffuDNO8=",
+  "Source": "DevOpsProject.CommunicationControl.API",
+  "BasePath": "_content/DevOpsProject.CommunicationControl.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
