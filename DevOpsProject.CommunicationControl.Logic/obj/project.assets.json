@@ -375,11 +375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj",
+      "projectUniqueName": "/Users/mso/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj",
       "projectName": "DevOpsProject.CommunicationControl.Logic",
-      "projectPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj",
+      "projectPath": "/Users/mso/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj",
       "packagesPath": "/Users/mso/.nuget/packages/",
-      "outputPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.CommunicationControl.Logic/obj/",
+      "outputPath": "/Users/mso/CommunicationControl/DevOpsProject.CommunicationControl.Logic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mso/.nuget/NuGet/NuGet.Config"
@@ -394,8 +394,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {
-              "projectPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj"
+            "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {
+              "projectPath": "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj"
             }
           }
         }

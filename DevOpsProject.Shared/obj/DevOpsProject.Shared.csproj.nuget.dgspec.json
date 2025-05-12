@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {}
+    "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {}
   },
   "projects": {
-    "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {
+    "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj",
+        "projectUniqueName": "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj",
         "projectName": "DevOpsProject.Shared",
-        "projectPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj",
+        "projectPath": "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj",
         "packagesPath": "/Users/mso/.nuget/packages/",
-        "outputPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/obj/",
+        "outputPath": "/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mso/.nuget/NuGet/NuGet.Config"

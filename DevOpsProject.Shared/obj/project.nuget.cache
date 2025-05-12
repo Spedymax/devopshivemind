@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BRhCX1qp+vc=",
+  "dgSpecHash": "cvO+J7RqfpQ=",
   "success": true,
-  "projectFilePath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj",
+  "projectFilePath": "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

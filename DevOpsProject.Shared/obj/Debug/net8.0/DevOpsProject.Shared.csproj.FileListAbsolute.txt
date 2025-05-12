@@ -9,3 +9,15 @@
 /Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/refint/DevOpsProject.Shared.dll
 /Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.pdb
 /Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/ref/DevOpsProject.Shared.dll
+/Users/mso/CommunicationControl/DevOpsProject.Shared/bin/Debug/net8.0/DevOpsProject.Shared.deps.json
+/Users/mso/CommunicationControl/DevOpsProject.Shared/bin/Debug/net8.0/DevOpsProject.Shared.dll
+/Users/mso/CommunicationControl/DevOpsProject.Shared/bin/Debug/net8.0/DevOpsProject.Shared.pdb
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.AssemblyInfoInputs.cache
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.AssemblyInfo.cs
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.csproj.CoreCompileInputs.cache
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.sourcelink.json
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.dll
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/refint/DevOpsProject.Shared.dll
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/DevOpsProject.Shared.pdb
+/Users/mso/CommunicationControl/DevOpsProject.Shared/obj/Debug/net8.0/ref/DevOpsProject.Shared.dll

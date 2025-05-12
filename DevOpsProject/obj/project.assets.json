@@ -2268,11 +2268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject/DevOpsProject.CommunicationControl.API.csproj",
+      "projectUniqueName": "/Users/mso/CommunicationControl/DevOpsProject/DevOpsProject.CommunicationControl.API.csproj",
       "projectName": "DevOpsProject.CommunicationControl.API",
-      "projectPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject/DevOpsProject.CommunicationControl.API.csproj",
+      "projectPath": "/Users/mso/CommunicationControl/DevOpsProject/DevOpsProject.CommunicationControl.API.csproj",
       "packagesPath": "/Users/mso/.nuget/packages/",
-      "outputPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject/obj/",
+      "outputPath": "/Users/mso/CommunicationControl/DevOpsProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mso/.nuget/NuGet/NuGet.Config"
@@ -2287,11 +2287,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj": {
-              "projectPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj"
+            "/Users/mso/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj": {
+              "projectPath": "/Users/mso/CommunicationControl/DevOpsProject.CommunicationControl.Logic/DevOpsProject.CommunicationControl.Logic.csproj"
             },
-            "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {
-              "projectPath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj"
+            "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj": {
+              "projectPath": "/Users/mso/CommunicationControl/DevOpsProject.Shared/DevOpsProject.Shared.csproj"
             }
           }
         }

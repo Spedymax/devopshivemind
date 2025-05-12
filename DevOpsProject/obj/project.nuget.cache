@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKcsLY6Ktrg=",
+  "dgSpecHash": "jy/zZeTJOJw=",
   "success": true,
-  "projectFilePath": "/Users/mso/Downloads/hiveemulator-main/src/CommunicationControl/DevOpsProject/DevOpsProject.CommunicationControl.API.csproj",
+  "projectFilePath": "/Users/mso/CommunicationControl/DevOpsProject/DevOpsProject.CommunicationControl.API.csproj",
   "expectedPackageFiles": [
     "/Users/mso/.nuget/packages/asp.versioning.abstractions/8.1.0/asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "/Users/mso/.nuget/packages/asp.versioning.http/8.1.0/asp.versioning.http.8.1.0.nupkg.sha512",
