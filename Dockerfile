@@ -25,4 +25,4 @@ ENV ASPNETCORE_ENVIRONMENT=Development
 EXPOSE 8080
 
 # Define the entry point for the application
-ENTRYPOINT ["dotnet", "DevOpsProject.HiveMind.API.dll"]
+#ENTRYPOINT ["dotnet", "DevOpsProject.HiveMind.API.dll"]
